@@ -1,0 +1,27 @@
+{
+  "name": "shopee-stub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newit-trungnt/shopee-stub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newit-trungnt/shopee-stub/issues"
+  },
+  "homepage": "https://github.com/newit-trungnt/shopee-stub#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
