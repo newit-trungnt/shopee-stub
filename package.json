@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/newit-trungnt/shopee-stub#readme",
   "dependencies": {
-    "koa": "^2.13.4"
+    "koa": "^2.13.4",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^10.1.1"
   },
   "devDependencies": {
     "prettier": "^2.5.1"
