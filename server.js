@@ -16,10 +16,9 @@ router.post('/api/v1/orders/basics', function (ctx) {
   ctx.body = orderList
 })
 
-router.post('/api/v1/orders/detail', function(ctx) {
-	ctx.body = orderDetails
+router.post('/api/v1/orders/detail', function (ctx) {
+  ctx.body = orderDetails
 })
-
 
 app.use(router.routes())
 
